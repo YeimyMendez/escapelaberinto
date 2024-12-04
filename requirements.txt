@@ -1,0 +1,1 @@
+pygame==2.3.0  # Asegúrate de que esta versión sea compatible con tu proyecto
